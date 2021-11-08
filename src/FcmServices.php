@@ -2,7 +2,7 @@
 
 namespace Ductho1201\FcmServices;
 
-class FCMService
+class FcmServices
 {
     private $fcmKey;
 
